@@ -1,0 +1,6 @@
+openai
+faiss-cpu
+sentence-transformers
+PyPDF2
+PyMuPDF
+langdetect
