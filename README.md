@@ -4,13 +4,13 @@ This is a bilingual Retrieval-Augmented Generation (RAG) pipeline that supports 
 - 🔍 Semantic search with multilingual support (Bangla + English)
 - 🧩 Bangla-aware chunking using LlamaIndex
 - 🧠 Uses `paraphrase-multilingual-mpnet-base-v2` for better cross-lingual embeddings
-- 🧑‍💻 Simple web UI to chat with your RAG model
+- 🧑‍💻 Simple web UI to chat with your RAG model  
 
-- For detailed instructions about setup, please refer to the PDF file in the repository:
+For detailed instructions about setup, please refer to the PDF file in the repository:
 📄 [Setup_Guide.pdf](https://github.com/RaisaTahasen/RAG/blob/main/Setup%20Guide.pdf)  
 -Make sure the "data" folder contains the pdf "HSC26 Bangla 1st paper"
 
--For the mandatory questions and answers required for the assessment, please refer to [RAG_Q/A](https://github.com/RaisaTahasen/RAG/blob/main/RAG_Q_A.pdf)  
+-For the mandatory questions and answers required for the assessment, please refer to [RAG_Q/A.pdf](https://github.com/RaisaTahasen/RAG/blob/main/RAG_Q_A.pdf)  
 
 📌 Credits
 
@@ -22,7 +22,7 @@ This is a bilingual Retrieval-Augmented Generation (RAG) pipeline that supports 
 
 -ChromaDB
 
--1. Used Tools, Libraries, and Packages  
+**Used Tools, Libraries, and Packages**  
 Core Libraries:  
 
 For PDF Processing:  
