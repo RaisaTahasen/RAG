@@ -7,4 +7,4 @@ This is a bilingual Retrieval-Augmented Generation (RAG) pipeline that supports 
 - 🧑‍💻 Simple web UI to chat with your RAG model
 
 - For detailed instructions about setup, please refer to the PDF file in the repository:
-📄 [Setup_Guide.pdf]
+📄 [Setup_Guide.pdf](https://github.com/RaisaTahasen/RAG/blob/main/Setup%20Guide.pdf)
