@@ -8,9 +8,9 @@ This is a bilingual Retrieval-Augmented Generation (RAG) pipeline that supports 
 
 For detailed instructions about setup, please refer to the PDF file in the repository:
 📄 [Setup_Guide.pdf](https://github.com/RaisaTahasen/RAG/blob/main/Setup%20Guide.pdf)  
--Make sure the "data" folder contains the pdf "HSC26 Bangla 1st paper"
+Please ensure the "data" folder contains the pdf "HSC26 Bangla 1st paper".  
 
--For the mandatory questions and answers required for the assessment, please refer to [RAG_Q/A.pdf](https://github.com/RaisaTahasen/RAG/blob/main/RAG_Q_A.pdf)  
+For the questions and answers required for the assessment, please refer to [RAG_Q/A.pdf](https://github.com/RaisaTahasen/RAG/blob/main/RAG_Q_A.pdf)  
 
 📌 Credits
 
