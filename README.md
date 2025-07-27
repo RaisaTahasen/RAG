@@ -52,7 +52,7 @@ Flask-CORS: To handle Cross-Origin Resource Sharing (CORS) for the web interface
 python-dotenv: For managing environment variables (e.g., API keys).  
 
 
-**📡 API Documentation**
+**📡 API Documentation**  
 The RAG Chat API is a session-aware service designed to handle both English and Bangla user queries. It operates over HTTP and is currently configured for local development.  
 
 Endpoint  
